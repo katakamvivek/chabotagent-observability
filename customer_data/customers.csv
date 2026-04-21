@@ -1,0 +1,4 @@
+customer_id	customer_name	customer_email	customer_phone	customer_address	mms_product	status	start_date	end_date
+CUST-001	John Sample	john.sample@example.com	0400 000 001	"1/10 Sample Street, Melbourne VIC 3000"	Motor Vehicle Insurance	Active	01-01-2025	31-12-9999
+CUST-002	Jane Demo	jane.demo@example.com	0400 000 002	"2/20 Demo Avenue, Sydney NSW 2000"	Novated Lease	Active	01-06-2024	31-12-9999
+CUST-003	Alex Test	alex.test@example.com	0400 000 003	"3/30 Test Road, Brisbane QLD 4000"	Salary Packaging	Active	01-03-2024	31-12-9999

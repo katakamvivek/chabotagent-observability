@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pdf
+output/
+otel_traces.csv
+.deepeval/
+.claude/
+"E*"
+customer_data/car_claim.csv
